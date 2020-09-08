@@ -16,3 +16,5 @@ All for sale at tinytronics.nl
 * https://www.tinytronics.nl/shop/nl/platforms/seeed-studio/seeed-studio-seeeduino-nano-atmega328p
 * https://www.tinytronics.nl/shop/nl/platforms/seeed-studio/seeed-studio-grove-shield-voor-arduinoseeeduino-nano
 * https://www.tinytronics.nl/shop/nl/platforms/m5stack/accessoires/m5stack-grove-kabel-20cm-5-stuks
+
+Total cost: €20,00 + €4,50 + €6,50 + €4,50 + €8,00 + €3,00 = €46,50
