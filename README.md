@@ -8,6 +8,8 @@ Contains the following:
 * seeed-studio-grove-shield-voor-arduinoseeeduino-nano
 * m5stack-grove-kabel-20cm-5-stuks
 
+
+All for sale at tinytronics.nl
 * https://www.tinytronics.nl/shop/nl/sensoren/temperatuur-lucht-vochtigheid/winsen-mh-z19b-co2-sensor-met-kabel
 * https://www.tinytronics.nl/shop/nl/display/oled/0.91-inch-oled-display-128*32-pixels-wit-i2c
 * https://www.tinytronics.nl/shop/nl/sensoren/temperatuur-lucht-vochtigheid/bme280-digitale-barometer-druk-en-vochtigheid-sensor-module
