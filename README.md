@@ -3,7 +3,6 @@ A simple arduino based sensor for airquality.
 ![Assembled Sensor](img/final_sensor.jpg?raw=true "Assembled Sensor")
 
 ## Components
-* Winsen MH-Z19B CO2 Sensor
 * [Winsen MH-Z19B CO2 Sensor](img/MH-Z19B_k.jpg)
 * 0.91-inch-oled-display (128*32-pixels)
 * bme280-digital-presure-temperature-humidity-sensor-module
