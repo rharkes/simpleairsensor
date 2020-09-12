@@ -1,5 +1,6 @@
 # Simple Air Sensor
-a simple arduino based sensor for airquality
+A simple arduino based sensor for airquality.
+![Assembled Sensor](img/final_sensor.jpg?raw=true "Assembled Sensor")
 
 ## Components
 * Winsen MH-Z19B CO2 Sensor
