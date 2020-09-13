@@ -1,5 +1,5 @@
 # Simple Air Sensor
-A simple arduino based sensor for airquality.
+A simple arduino based sensor for measuring CO2 concentration, temperature, humidity and airpressure.
 ![Assembled Sensor](img/final_sensor.jpg?raw=true "Assembled Sensor")
 
 ## Components
