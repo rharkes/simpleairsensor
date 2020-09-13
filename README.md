@@ -10,7 +10,7 @@ A simple arduino based sensor for measuring CO2 concentration, temperature, humi
 * seeed-studio-grove-shield
 * 2x m5stack-grove-cabel-20cm
 
-## Instructions
+## Build Instructions
 * Desolder the pinheader from the OLED display
 * Cut one m5stack grove cable in two and strip the wire ends
 * Solder one to the BME280
@@ -19,3 +19,7 @@ A simple arduino based sensor for measuring CO2 concentration, temperature, humi
 * Solder to the MH-Z19B
 * Plug the MHZ19B in port D6, the MBE280 in one of the I2C ports and the OLED in the other I2C port.
 * Upload the code to the arduino
+
+## Usage
+Simply connect to a usb-c phone charger
+Can also be made portable with a powerbank and a usb-c cable.
