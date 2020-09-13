@@ -21,5 +21,6 @@ A simple arduino based sensor for measuring CO2 concentration, temperature, humi
 * Upload the code to the arduino
 
 ## Usage
-Simply connect to a usb-c phone charger
+Simply connect to a usb-c phone charger.
+
 Can also be made portable with a powerbank and a usb-c cable.
