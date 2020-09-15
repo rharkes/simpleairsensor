@@ -22,5 +22,6 @@ A simple arduino based sensor for measuring CO2 concentration, temperature, humi
 
 ## Usage
 Simply connect to a usb-c phone charger.
+By connecting pin 4 to the ground the device can be put in calibration-mode. It needs 20 minutes in clean outside air to determine the signal at a concentration of 400 ppm CO2. 
 
-Can also be made portable with a powerbank and a usb-c cable.
+The device can ofcourse be made portable with a powerbank and a usb-c cable.
